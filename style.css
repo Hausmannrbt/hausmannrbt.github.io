@@ -1,0 +1,53 @@
+body{
+	background-color: #EACFB8;
+	font-family: "Relate"
+}
+/*PAGE WEB*/
+
+h3{
+	font-size: 35px;
+	padding-left: 650px;
+}
+/*BIENVENUE*/
+
+p{
+	font-size: 25px;
+	padding-left: 400px;
+}
+/*DIDEROT*/
+
+p.citation{
+	font-size: 22px;
+	padding-left: 300px;
+	line-height: -30em;
+	font-weight: bold;
+	font-family: "Times New Roman"
+}
+/*RMQ*/
+
+p.t{
+	padding-left: 300px;
+	font-size: 25px;
+	line-height: -9em;
+}
+/*ADV*/
+
+p.avis{
+	font-size: 17px;
+	padding-left: 720px;
+}
+
+/*CATEGORIE*/
+
+p.suj{
+
+	font-size: 40px;
+	padding-left: 100px
+}
+/*LIEN*/
+
+a.lien{
+	font-size: 23px;
+	padding-left: 300px;
+}
+
